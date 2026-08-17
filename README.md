@@ -16,7 +16,7 @@
 - Simulação em CFD (Dynamics of Fluids Computacional)
 - XFLR5
 
-- # Guia Completo: Simulação de Aerofólio no OpenFOAM
+# Guia Completo: Simulação de Aerofólio no OpenFOAM
 
 ## Resumo
 Este documento apresenta um guia detalhado para simulação do comportamento de aerofólios utilizando o OpenFOAM. O fluxo de trabalho é dividido em 5 etapas principais, desde a preparação da geometria até a análise dos resultados.
